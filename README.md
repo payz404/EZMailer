@@ -9,8 +9,8 @@ Author : Im.Payz
 <br>
 <h3>Sender Feature: </h3>
 <br>
-<b>It doesn't need SMTP anymore to <br> send Emails, It just needs Webshell for upload 'api.php' to send Emails message.
-<b>
+<h4>It doesn't need SMTP anymore to <br> send Emails, It just needs Webshell for upload 'api.php' to send Emails message.
+</h4>
 <br>
 <br>
 <b>It's so Very Easy to Set Mailer Settings.</b>
@@ -80,7 +80,7 @@ Author : Im.Payz
 <br>
 • Run the Sender
 <br>
-[>>] $ python3 ezsender.py
+<code>[>>] $ python3 ezsender.py</code>
 <br>
 Or
 <br>
