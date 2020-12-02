@@ -10,10 +10,11 @@ Author : Im.Payz
 <h3>Sender Feature: </h3>
 <br>
 <br>
-• It doesn't need SMTP anymore to send Emails<br>It just needs Webshell for upload 'api.php' to send Emails message.
+<b>• It doesn't need SMTP anymore to <br> send Emails, It just needs Webshell for upload 'api.php' to send Emails message.
+<b>
 <br>
 <br>
-• It's so Very Easy to Set Mailer Settings.
+<b>• It's so Very Easy to Set Mailer Settings.</b>
 <br>
 <br>
 <h3>• Auto Validation Headers Mails</h3><br>
