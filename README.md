@@ -91,9 +91,12 @@ I'ts so easy
 <h3>For Price ?</h3>
 <br>
 Contact Me:
-•WhatsApp: Payz (+6282246831089 )
-•Facebook: Naufal (https://facebook.com/naufal.frs.5)
-•github: Payz404 (https://github.com/payz404)
+<br>
+  • WhatsApp: <a href="https://api.whatsapp.com/send?phone=+6282246831089">Payz</a>
+  <br>
+  • Facebook: <a href="https://facebook.com/naufal.frs.5">Naufal</a>
+  <br>
+  • Github: <a href="https://github.com/payz404">Payz404</a>
 <br>
 <br>
 <br>
