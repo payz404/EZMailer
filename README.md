@@ -1,8 +1,11 @@
 <h2>New EZMailer v.2.0</h2>
 <br>
 App Name : EZMailer
+<br>
 App Version : v.2.0
+<br>
 Require : Python 3
+<br>
 Author : Im.Payz
 <br>
 <br>
