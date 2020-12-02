@@ -55,7 +55,6 @@ Author : Im.Payz
 <br>
 <br>
 <br>
-<br>
 <h3>Set Mailer Settings ?</h3>
 <br>
 • Sender Setting: EZConfig/config.ini
