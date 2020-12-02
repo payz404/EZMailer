@@ -65,7 +65,6 @@ Author : Im.Payz
 <br>
 <br>
 <br>
-<br>
 <h3>How To Use ?</h3>
 <br>
 • Upload api.php in your shell & put your path shell in config.ini
