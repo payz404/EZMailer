@@ -10,14 +10,15 @@ Author : Im.Payz
 <h3>Sender Feature: </h3>
 <br>
 <br>
-<h3>• It doesn't need SMTP anymore to send Emails, It just needs Webshell for upload 'api.php' to send Emails message.</h3>
+• It doesn't need SMTP anymore to send Emails, It just needs Webshell for upload 'api.php' to send Emails message.
 <br>
 <br>
-<h3>• It's so Very Easy to Set Mailer Settings.</h3>
+• It's so Very Easy to Set Mailer Settings.
 <br>
 <br>
 <h3>• Auto Validation Headers Mails</h3><br>
 • This Feature for validation your list and header, If you want send to yahoo domain this sender will be automatically set mailer header to yahoo domain (For custom header i will add in soon).
+<br>
 - Only Aol and Yahoo validate the header and other header than use the default header
 <br>
 <br>
@@ -26,7 +27,7 @@ Author : Im.Payz
 <br>
 <br>
 <br>
-<h3>[>>] Very Easy and Complete Tags Feature
+<h3>• Very Easy and Complete Tags Feature
 </h3>
 <br>
 • {email} = ex@mail.com
@@ -63,8 +64,6 @@ Author : Im.Payz
 • Set List: EZConfig/Mailist
 <br>
 • Set Letter: EZConfig/Letter
-<br>
-<br>
 <br>
 <br>
 <br>
