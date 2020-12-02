@@ -10,7 +10,7 @@ Author : Im.Payz
 <h3>Sender Feature: </h3>
 <br>
 <br>
-• It doesn't need SMTP anymore to send Emails, It just needs Webshell for upload 'api.php' to send Emails message.
+• It doesn't need SMTP anymore to send Emails<br>It just needs Webshell for upload 'api.php' to send Emails message.
 <br>
 <br>
 • It's so Very Easy to Set Mailer Settings.
@@ -69,7 +69,6 @@ Author : Im.Payz
 <br>
 <br>
 <h3>How To Use ?</h3>
-<br>
 <br>
 • Upload api.php in your shell & put your path shell in config.ini
 <br>
