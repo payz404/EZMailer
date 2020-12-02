@@ -9,12 +9,11 @@ Author : Im.Payz
 <br>
 <h3>Sender Feature: </h3>
 <br>
-<br>
-<b>• It doesn't need SMTP anymore to <br> send Emails, It just needs Webshell for upload 'api.php' to send Emails message.
+<b>It doesn't need SMTP anymore to <br> send Emails, It just needs Webshell for upload 'api.php' to send Emails message.
 <b>
 <br>
 <br>
-<b>• It's so Very Easy to Set Mailer Settings.</b>
+<b>It's so Very Easy to Set Mailer Settings.</b>
 <br>
 <br>
 <h3>• Auto Validation Headers Mails</h3><br>
@@ -77,7 +76,7 @@ Author : Im.Payz
 <br>
 • Install requirements in your bash/shell
 <br>
-[>>] $ pip3 install -r requirements.txt
+<code>[>>] $ pip3 install -r requirements.txt</code>
 <br>
 • Run the Sender
 <br>
