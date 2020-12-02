@@ -7,27 +7,27 @@ Author : Im.Payz
 <br>
 <br>
 <br>
-<h3>Sender Feature</h3>:
+<h3>Sender Feature: </h3>
 <br>
 <br>
-<b>[>>] It doesn't need SMTP anymore to send Emails, It just needs Webshell for upload 'api.php' to send Emails message.</b>
+<h3>• It doesn't need SMTP anymore to send Emails, It just needs Webshell for upload 'api.php' to send Emails message.</h3>
 <br>
 <br>
-<b>[>>] It's so Very Easy to Set Mailer Settings.</b>
+<h3>• It's so Very Easy to Set Mailer Settings.</h3>
 <br>
 <br>
-<b>[>>] Auto Validation Headers Mails</b><br>
+<h3>• Auto Validation Headers Mails</h3><br>
 • This Feature for validation your list and header, If you want send to yahoo domain this sender will be automatically set mailer header to yahoo domain (For custom header i will add in soon).
 - Only Aol and Yahoo validate the header and other header than use the default header
 <br>
 <br>
-<b>[>>] Auto Rotate Proxy per Send Emails</b><br>
+<h3>• Auto Rotate Proxy per Send Emails</h3><br>
 • This Feature is to prevent blocking your IP Address from your shell and for secure send email messages.
 <br>
 <br>
 <br>
-<b>[>>] Very Easy and Complete Tags Feature
-</b>
+<h3>[>>] Very Easy and Complete Tags Feature
+</h3>
 <br>
 • {email} = ex@mail.com
 <br>
@@ -77,11 +77,15 @@ Author : Im.Payz
 • Setting Sender In EZConfig -> config.ini
 <br>
 • Install requirements in your bash/shell
+<br>
 [>>] $ pip3 install -r requirements.txt
 <br>
 • Run the Sender
+<br>
 [>>] $ python3 ezsender.py
+<br>
 Or
+<br>
 Run ezmailer.exe
 <br>
 I'ts so easy
