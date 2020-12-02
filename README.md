@@ -7,8 +7,8 @@ Author : Im.Payz
 <br>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/46267341/100875890-3237d700-34d9-11eb-8b3a-917c21a68115.gif">
 <br>
+<img src="https://user-images.githubusercontent.com/46267341/100875890-3237d700-34d9-11eb-8b3a-917c21a68115.gif">
 <br>
 <h3>Sender Feature: </h3>
 <br>
