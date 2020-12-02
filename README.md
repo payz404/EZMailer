@@ -9,7 +9,7 @@ Author : Im.Payz
 <br>
 <h3>Sender Feature: </h3>
 <br>
-<h4>It doesn't need SMTP anymore to <br> send Emails, It just needs Webshell for upload 'api.php' to send Emails message.
+<h4>It doesn't need SMTP anymore to <br> send Emails, It just needs Webshell for upload <code>'api.php'</code> to send Emails message.
 </h4>
 <br>
 <br>
